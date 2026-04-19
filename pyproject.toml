@@ -12,4 +12,6 @@ dependencies = [
     "langchain-community>=0.4.1",
     "langchain-openai>=1.1.10",
     "python-dotenv>=1.2.2",
+    "langchain-google-genai>=4.2.2",
+    "langchain-google-vertexai>=3.2.2",
 ]
