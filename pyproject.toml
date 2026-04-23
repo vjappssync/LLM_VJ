@@ -13,5 +13,10 @@ dependencies = [
     "langchain-openai>=1.1.10",
     "python-dotenv>=1.2.2",
     "langchain-google-genai>=4.2.2",
-    "langchain-google-vertexai>=3.2.2",
+    "pypdf>=6.10.2",
+    "langchain-chroma>=1.1.0",
+    "chromadb>=1.5.8",
+    "grpcio>=1.80.0",
+    "faiss-cpu>=1.13.2",
+    "tiktoken>=0.12.0",
 ]
